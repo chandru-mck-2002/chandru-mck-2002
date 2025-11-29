@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sundar 
+# 👋 Hi, I'm Chandru 
 
 💻 **Full-Stack Developer | Backend Enthusiast | Problem Solver**
 
